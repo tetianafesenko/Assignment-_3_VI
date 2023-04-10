@@ -5,3 +5,6 @@ We will be exploring an medical cost dataset with various demographic and health
 
 For a regression task, the goal is to predict medical costs (based on insurance claims) using a linear regression model.
 For a (binary) classification task, the goal is to predict if the insurance beneficiary is a smoker or a non-smoker with a logistic regression model.
+
+
+### Exploratory Data Analysis (EDA)
