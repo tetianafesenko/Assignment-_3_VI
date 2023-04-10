@@ -1,0 +1,15 @@
+Caregivers and Machine Learning 2023 
+Homework assignment 3
+
+Problem 1: [25 pts] Conceptual understanding 
+
+(A) [5 pts] What is the advantage of using a bagging algorithm like Random Forest over a single Decision Tree? 
+
+Answer: There are a few reasons why using a bagging algorithm like Random Forest has some advantages over using for example a Decision Tree.
+
+More flexibility. Random Forest is a flexible algorithm with the ability to work with both categorical and continuous features, and can handle different machine learning tasks such as classification and regression problems.
+Accuracy. By combining multiple Decision Trees, Random Forest has the potential to achieve higher predictive accuracy than a single Decision Tree, making it a better choice for many machine learning applications.
+Overfitting prevention. To prevent overfitting, Random Forest constructs several Decision Trees on various subsets of the training data, and randomly selects a subset of features at each split. This strategy mitigates the risk of overfitting that can arise when using a single Decision Tree.
+Handling outliers. Random Forest's randomness in constructing multiple Decision Trees makes it less sensitive to outliers present in the dataset, compared to a single Decision Tree. As a result, it can produce better results on datasets that contain outliers.
+
+
