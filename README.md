@@ -66,6 +66,6 @@ https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearReg
 
 In this section, we will build a Linear Regression model to predict the amount of charges (medical costs) based on an individual's age, BMI, number of children, sex, whether they are a smoker, and what region they live in.
 
-### Build the model
 
-We will first split the dataset into different datasets: (1) training set; and (2) test set. When we develop a model, we train the model using the samples in the training set. Once the model has learned, we evaluate the performance of our model with the samples in the test set. By testing on unseen data, we minimize the bias of our model and can accurately estimate the generalizability and predictive power of our model. Here, we will split the dataset into 90% training set and 10% test set. Other typical splits includes 70-30 split, 80-20 split, etc.
+
+
